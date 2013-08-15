@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# MUSI4330 documentation build configuration file, created by
+# MUSI4331 documentation build configuration file, created by
 # sphinx-quickstart on Wed Aug 14 21:12:16 2013.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'MUSI4330'
+project = u'MUSI4331'
 copyright = u'2013, Daniel Shanahan'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'MUSI4330doc'
+htmlhelp_basename = 'MUSI4331doc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'MUSI4330.tex', u'MUSI4330 Documentation',
+  ('index', 'MUSI4331.tex', u'MUSI4331 Documentation',
    u'Daniel Shanahan', 'manual'),
 ]
 
@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'musi4330', u'MUSI4330 Documentation',
+    ('index', 'musi4331', u'MUSI4331 Documentation',
      [u'Daniel Shanahan'], 1)
 ]
 
@@ -227,8 +227,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'MUSI4330', u'MUSI4330 Documentation',
-   u'Daniel Shanahan', 'MUSI4330', 'One line description of project.',
+  ('index', 'MUSI4331', u'MUSI4331 Documentation',
+   u'Daniel Shanahan', 'MUSI4331', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -245,7 +245,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'MUSI4330'
+epub_title = u'MUSI4331'
 epub_author = u'Daniel Shanahan'
 epub_publisher = u'Daniel Shanahan'
 epub_copyright = u'2013, Daniel Shanahan'
