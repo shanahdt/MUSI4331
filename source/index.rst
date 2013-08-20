@@ -9,8 +9,9 @@ Welcome to MUSI4331's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-
+   :maxdepth: 1
+    
+   syllabus
 
 
 Indices and tables
