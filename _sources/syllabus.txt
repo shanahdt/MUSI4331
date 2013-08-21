@@ -211,6 +211,17 @@ Lecture and Reading Schedule
 |15.R	        |	Final Class and Party 			    |
 +---------------+---------------------------------------------------+
 
+Honor
+=======
+I trust every student in this course to comply with all of the provisions of the UVA honor system. 
+I will ask that you pledge and sign the two examinations and three papers.  
+Your signature on the exams affirms you have not received nor given aid while 
+taking your exams, nor accessed any notes, study outlines, old exams, answer keys, 
+or books  while taking an exam and that you have not obtained any answers from another 
+student's exam.  Your signature on the papers affirms that they represent your original 
+work, and that any sources you have quoted, paraphrased, or used extensively in preparing 
+the paper have been properly credited in the footnotes or bibliography.
+
 Students with disabilities
 ==========================
 
