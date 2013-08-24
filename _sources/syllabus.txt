@@ -164,103 +164,106 @@ Lecture and Reading Schedule
 =============================
 |
 
-+---------------+---------------------------------------------------+
-|Week.Day	|	Topic         			            |
-+===============+===================================================+
-|1.T		|	Introduction/Sign up for                    |    
-|(8/27)		|	Presentations                               |
-|		|                    			            |
-|1.R		|	Melody and Motives                          |
-|(8/29)         |       (No Presentations)	                    |
-+---------------+---------------------------------------------------+
-|2.T		| 	Melody and Motives (2)	                    |   
-|(9/3)		|					            |
-|		|					            |
-|2.R		|	Melody and Motives (3)	        	    |
-|(9/5)		|					            |
-+---------------+---------------------------------------------------+
-|3.T		|	Phrases and Cadences (1)	            |
-|(9/10)		|					            |
-|		|			        	            |
-|3.R		|	Phrases and Cadences (2)	            |
-|(9/12)		|					            |
-+---------------+---------------------------------------------------+
-|4.T		|	Texture (1)				    |
-|(9/17)		|					            |	
-|		|					            |
-|4.R		|	Texture (2)				    |
-|(9/19)		|					            |
-+---------------+---------------------------------------------------+
-|5.T		|	Sequences and Secondary Dominants (1)	    |
-|(9/24)		|	         			            |
-|		|					            |
-|5.R		|	Sequences and Secondary Dominants (2)	    |
-|(9/26)		|					            |
-+---------------+---------------------------------------------------+
-|6.T		|	Mixture (1)			            |
-|(10/1)		|						    |
-|		|					            |
-|6.R		|	Mixture (2)				    |
-|(10/3)		|					            |
-+---------------+---------------------------------------------------+
-|7.T		|	Reading Day (No Class)	                    |
-|(10/8)		|						    |
-|		|					            |
-|7.R	        |	Chromatic Harmony (1)			    |
-|(10/10)        |					            |
-+---------------+---------------------------------------------------+
-|8.T	        |	Reading Day     		            |
-|(10/15)	|					            |
-|		|						    |
-|8.R	        |	Chromatic Harmony (2)		            |
-|(10/17)	|					            |
-+---------------+---------------------------------------------------+
-|9.T	        |	Sonata Forms Introduction          	    |
-|(10/22)	|					            |
-|		|						    |
-|9.R	        |	Sonata Expositions			    |
-|(10/24)	|					            |
-+---------------+---------------------------------------------------+
-|10.M	        |	Final Project Proposals Due                 |
-|(10/28)	|					            |
-|               |                                                   |
-|10.T	        |	Sonata Expositions 2	   		    |	
-|(10/29)	|					            |
-|		|						    |
-|10.R	        |	Sonata Developments 		            |
-|(10/31)	|	Halloween: Topical Costumes Encouraged      |
-+---------------+---------------------------------------------------+
-|11.T	        |	Sonata Developments 2  		            |
-|(11/5)		|					            |
-|		|						    |
-|11.R	        |	Sonata Recapitulations and Sample Quiz      |
-|(11/7)		|					            |
-+---------------+---------------------------------------------------+
-|12.T	        |	In-class Quiz on Sonata Form 		    |
-|(11/12)	|	(counts as 2 homework grades) 		    |
-|               |                                                   |
-|12.R	        |	Binary Forms				    |
-|(11/14)	|					            |
-+---------------+---------------------------------------------------+
-|13.T	        |	Additional Types of Form		    |
-|(11/19)	|					            |
-|		|						    |
-|13.R	        |	Analysis of Nineteenth-Century              |
-|(11/21)	|	Repertoire (1)			            |
-|               |                	                            |
-+---------------+---------------------------------------------------+
-|14.T	        |	Analysis of Nineteenth-Century              |
-|(11/26)        |       Repertoire (2) 			            |
-|		|						    |
-|14.R	        |	Tofurkey and Mashed Potatoes                |
-|(11/28)        |                			            |
-+---------------+---------------------------------------------------+
-|15.T	        |	Analysis of Twentieth Century               |       
-|(12/3)         |       Repertoire (2) 			            |
-|		|						    |
-|15.R	        |	Final Class and Party 			    |
-|(12/5)		|						    |
-+---------------+---------------------------------------------------+
++--------+--------------------------------------+
+|Week.Day|	Topic         			|           
++========+======================================+
+|1.T	 | Introduction/Sign up for             |           
+|(8/27)	 | Presentations                        |       
+|	 |                    			|            
+|1.R	 | Melody and Motives                   |       
+|(8/29)  | (No Presentations)	                |    
++--------+--------------------------------------+
+|2.T	 | Melody and Motives (2)	        |       
+|(9/3)	 |					|    
+|	 |					|    
+|2.R	 | Melody and Motives (3)	        |
+|(9/5)	 |					|
++--------+--------------------------------------+
+|3.T	 | Phrases and Cadences (1)	        |    
+|(9/10)	 |					|    
+|	 |			        	|    
+|3.R	 | Phrases and Cadences (2)	        |    
+|(9/12)	 |					|    
++--------+--------------------------------------+
+|4.T	 | Texture (1)				|   
+|(9/17)	 |					|    	
+|	 |					|    
+|4.R	 | Texture (2)				|    
+|(9/19)	 |					|
++--------+--------------------------------------+
+|5.T	 | Sequences and Secondary Dominants (1)|	   
+|(9/24)	 |	         			|           
+|	 |					|           
+|5.R	 | Sequences and Secondary Dominants (2)|	    
+|(9/26)	 |					|            
++--------+--------------------------------------+
+|6.T	 | Mixture (1)			        |
+|(10/1)	 |					|	    
+|	 |					|           
+|6.R	 | Mixture (2)				|    
+|(10/3)	 |					|            
++--------+--------------------------------------+
+|7.T	 | Reading Day (No Class)	        |            
+|(10/8)	 |					|	    
+|	 |					|            
+|7.R	 | Chromatic Harmony (1)		|	    
+|(10/10) |					|            
++--------+--------------------------------------+
+|8.T	 | Reading Day     		        |    
+|(10/15) |					|            
+|	 |					|	    
+|8.R	 | Chromatic Harmony (2)		|            
+|(10/17) |					|            
++--------+--------------------------------------+
+|9.T	 | Sonata Forms Introduction          	|
+|(10/22) |					|           
+|	 |					|	    
+|9.R	 | Sonata Expositions			|  
+|(10/24) |					| 
++--------+--------------------------------------+
+|10.M	 | Final Project Proposals Due          |
+|(10/28) |					|
+|        |                                      |
+|10.T	 | Sonata Expositions 2	   		|	
+|(10/29) |					|
+|	 |					|
+|10.R	 | Sonata Developments 		        |
+|(10/31) |	                                |
+|        | Halloween: Topical Costumes          |
+|        | Encouraged                           |
++--------+--------------------------------------+
+|11.T	 | Sonata Developments 2  		|
+|(11/5)	 |					|
+|	 |                                      |
+|11.R	 | Sonata Recapitulations and Sample    |
+|(11/7)	 | Quiz					|
+|        |                                      |
++--------+--------------------------------------+
+|12.T	 | In-class Quiz on Sonata Form 	|
+|(11/12) | (counts as 2 homework grades) 	|
+|        |                                      |
+|12.R	 | Binary Forms				|
+|(11/14) |					|
++--------+--------------------------------------+
+|13.T	 | Additional Types of Form	        |
+|(11/19) |					|
+|	 |					|
+|13.R	 | Analysis of Nineteenth-Century       |
+|(11/21) | Repertoire (1)			|
+|        |                	                |
++--------+--------------------------------------+
+|14.T	 | Analysis of Nineteenth-Century       |
+|(11/26) | Repertoire (2) 			|
+|        |					|
+|14.R	 | Tofurkey and Mashed Potatoes         |
+|(11/28) |                		        |
++--------+--------------------------------------+
+|15.T	 | Analysis of Twentieth Century        |       
+|(12/3)  | Repertoire (2) 	                |
+|        |					|
+|15.R	 | Final Class and Party 		|
+|(12/5)	 |				        |
++--------+--------------------------------------+
 
 Honor
 =======
