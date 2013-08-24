@@ -15,7 +15,7 @@ Theory 3 (MUSI4331)
 :Time: TR / 9:30-10:45pm
 :Place: Old Cabel Hall, B012
 :Class Number: 11200
-:Text: Sonatas and Fantasies for the Piano, by W. A. Mozart (Dover publication).
+:Text: *Sonatas and Fantasies for the Piano*, by W. A. Mozart (Dover publication).
 :Course Web Page: http://shanahdt.github.io/MUSI4331/
 
 
