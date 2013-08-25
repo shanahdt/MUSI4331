@@ -25,19 +25,13 @@ Course Objectives
 Music 4331 is the final course in the three-semester music theory 
 curriculum at UVa. In this course, we will continue to explore 
 Western tonal music through analysis and model composition. We will
-examine elements of sonata theory, chromaticism, the analysis of 19th and 
-early-20th century music, and many other topics.
+examine elements of sonata theory, modulation, chromaticism, the analysis of 
+late 19th- and 
+early20th-century music, and many other topics.
 
 Upon completion of this course, you should have developed many new 
 skills that will help you to relate more richly to music by better 
 understanding the structure and building blocks of music.
-
-Musicianship is a co-requisite course for Theory 3. Your Musicianship section 
-(whether MUSI 3332, 3334, or 3336) will not be definitive until 
-after you have taken the required placement exam. 
-This placement exam will be held on Wednesday, August 29, 
-from 12:00 to 12:50 in OCH 107. Please email the Musicianship instructor, 
-Adam Carter (acc8v@virginia.edu) with any questions.
 
 Enrollment deadlines: The last day in the College to add a course is Tuesday,
 September 10th; the last day to drop a course is Wednesday, September 11th; 
@@ -70,7 +64,7 @@ Website
 =======
 
 The course website can be found at http://shanahdt.github.io/MUSI4331/. 
-This site contains lectures, course materials, supplementary readings, 
+This site contains lectures, course materials, 
 quizzes and assignments **for self assessment**, and helpful links. 
 It is intended to complement, rather than replace, Collab.
 
@@ -82,7 +76,7 @@ I am available and interested in talking with you about the course,
 the course material, and strategies to enhance your learning. 
 We can usually have brief discussions after class, and I am able 
 to answer questions by e-mail (dts9h@virginia.edu) at any time. 
-Additionally, I am happy to eith meet during office hours, or 
+Additionally, I am happy to eith meet during office hours (see above), or to
 set up an appointment at a time that is 
 mutually acceptable for more lengthy discussions. 
 
@@ -95,25 +89,22 @@ more a lab than a lecture course. As such, attendance is crucial.
 You are expected to attend every class and attendance will be taken
 at the beginning of each meeting. If you know in advance that 
 you cannot attend, please contact me by email as soon as possible. 
-I will not penalize you for a few absences, but a pattern of absences 
-will cause your grade to drop. Please do not skip class simply 
-because you have not completed your homework.
+I will not penalize you for a couple of absences, but a pattern of absences 
+will cause your grade to drop.  
 
 
 Classwork, Homework, and Grading
 ================================
 
 Assignments are due at the beginning of class. Late assignments 
-will be docked points according to the number of days (24-hour timespans) 
-from the official due date. For example, if you hand in a “B” quality 
-assignment within 24 hours after the official due date, 
-the beginning of the previous class, the grade will be adjusted 
-to a “B minus.” Place late assignments into my department box, which is 
+will be docked 5 points according to the number of days (24-hour timespans) 
+from the official due date. For example, if you hand in an assignment that would normally receive an
+88 within 24 hours of the class, it will be reduced to an 83.  
+Place late assignments into my department box, which is 
 located in the Music Department office (Old Cabell Hall, First Floor). 
-Whenever you place something into my department box, please notify me by email. 
-Otherwise, I will not know to look for it, especially because my office is 
-located in a galaxy far, far away.
-
+Whenever you place something into my department box, please notify me by email,
+as my office is in another building.
+ 
 Each of you will be paired with another classmate to present your homework 
 once on one of the Thursdays during the semester, starting on September 5th. 
 In addition to the copy of the homework that you hand in to me, 
@@ -129,13 +120,13 @@ Your oral presentation counts as one homework grade, separate from the grade
 you receive on the homework itself. Try to present as well as possible: be prepared, 
 be strategic about the way you use your audio-visual aids (slideshows, if preferred), 
 speak loudly and clearly, and use the appropriate terminology. 
-You're the instructor for the moment,
-so teach as well as possible!
 
 I am happy to meet with you beforehand to go over your presentation.
 Before meeting with me and certainly before presenting in class, 
 you should also convene with your partner, 
 discuss the assignment together, and plan out the presentation.
+
+You can see a rubric of how presentations are marked here.
 
 Grades will be given as percentages out of 100 and will be 
 applied to daily work (homework and presentations) and the final project. 
@@ -170,13 +161,13 @@ Lecture and Reading Schedule
 |1.T	 | Introduction/Sign up for             |           
 |(8/27)	 | Presentations                        |       
 |	 |                    			|            
-|1.R	 | Melody and Motives                   |       
+|1.R	 | Melody and Motives (1)               |       
 |(8/29)  | (No Presentations)	                |    
 +--------+--------------------------------------+
 |2.T	 | Melody and Motives (2)	        |       
 |(9/3)	 |					|    
 |	 |					|    
-|2.R	 | Melody and Motives (3)	        |
+|2.R	 | Texture              	        |
 |(9/5)	 |					|
 +--------+--------------------------------------+
 |3.T	 | Phrases and Cadences (1)	        |    
@@ -185,80 +176,81 @@ Lecture and Reading Schedule
 |3.R	 | Phrases and Cadences (2)	        |    
 |(9/12)	 |					|    
 +--------+--------------------------------------+
-|4.T	 | Texture (1)				|   
+|4.T	 | Sequences and Secondary Dominants (1)|   
 |(9/17)	 |					|    	
 |	 |					|    
-|4.R	 | Texture (2)				|    
+|4.R	 | Sequences and Secondary Dominants (2)|    
 |(9/19)	 |					|
 +--------+--------------------------------------+
-|5.T	 | Sequences and Secondary Dominants (1)|	   
+|5.T	 | Modulatory Techniques (1)            |	   
 |(9/24)	 |	         			|           
 |	 |					|           
-|5.R	 | Sequences and Secondary Dominants (2)|	    
+|5.R	 | Modulatory Techniques (2)            |	    
 |(9/26)	 |					|            
 +--------+--------------------------------------+
-|6.T	 | Mixture (1)			        |
+|6.T	 | Modal Mixture (1)		        |
 |(10/1)	 |					|	    
 |	 |					|           
-|6.R	 | Mixture (2)				|    
+|6.R	 | Modal Mixture (2)			|    
 |(10/3)	 |					|            
 +--------+--------------------------------------+
-|7.T	 | Reading Day (No Class)	        |            
+|7.T	 | Chromatic Harmony (1)	        |            
 |(10/8)	 |					|	    
 |	 |					|            
-|7.R	 | Chromatic Harmony (1)		|	    
+|7.R	 | Chromatic Harmony (2)		|	    
 |(10/10) |					|            
 +--------+--------------------------------------+
-|8.T	 | Reading Day     		        |    
+|8.T	 | Reading Day (Reading Day)            |    
 |(10/15) |					|            
 |	 |					|	    
-|8.R	 | Chromatic Harmony (2)		|            
-|(10/17) |					|            
+|8.R	 | Sonata Forms Introduction 		|            
+|(10/17) | (No Presentation)			|            
+|        |                                      |
 +--------+--------------------------------------+
-|9.T	 | Sonata Forms Introduction          	|
+|9.T	 | Sonata Expositions 1          	|
 |(10/22) |					|           
 |	 |					|	    
-|9.R	 | Sonata Expositions			|  
+|9.R	 | Sonata Expositions 2			|  
 |(10/24) |					| 
 +--------+--------------------------------------+
 |10.M	 | Final Project Proposals Due          |
 |(10/28) |					|
 |        |                                      |
-|10.T	 | Sonata Expositions 2	   		|	
+|10.T	 | Sonata Developments 1   		|	
 |(10/29) |					|
 |	 |					|
-|10.R	 | Sonata Developments 		        |
+|10.R	 | Sonata Developments 2	        |
 |(10/31) |	                                |
 |        | Halloween: Topical Costumes          |
 |        | Encouraged                           |
 +--------+--------------------------------------+
-|11.T	 | Sonata Developments 2  		|
-|(11/5)	 |					|
+|11.T	 | Sonata Recapitulations and Sample	|
+|(11/5)	 | Quiz					|
 |	 |                                      |
-|11.R	 | Sonata Recapitulations and Sample    |
-|(11/7)	 | Quiz					|
+|11.R	 | In-class Quiz on Sonata Form         |
+|(11/7)	 | (counts as 2 homework grades)        |
 |        |                                      |
 +--------+--------------------------------------+
-|12.T	 | In-class Quiz on Sonata Form 	|
-|(11/12) | (counts as 2 homework grades) 	|
+|12.T	 | Binary Forms                  	|
+|(11/12) |                               	|
 |        |                                      |
-|12.R	 | Binary Forms				|
+|12.R	 | Additional Types of Form		|
 |(11/14) |					|
 +--------+--------------------------------------+
-|13.T	 | Additional Types of Form	        |
-|(11/19) |					|
+|13.T	 | Analysis of Late Nineteenth-Century  |
+|(11/19) | Repertoire (1)			|
 |	 |					|
-|13.R	 | Analysis of Nineteenth-Century       |
-|(11/21) | Repertoire (1)			|
+|13.R	 | Analysis of Late Nineteenth-Century  |
+|(11/21) | Repertoire (2)			|
 |        |                	                |
 +--------+--------------------------------------+
-|14.T	 | Analysis of Nineteenth-Century       |
-|(11/26) | Repertoire (2) 			|
+|14.T	 | Analysis of Early Twentieth-Century  |
+|(11/26) | Repertoire (1)     			|
 |        |					|
 |14.R	 | Tofurkey and Mashed Potatoes         |
 |(11/28) |                		        |
 +--------+--------------------------------------+
-|15.T	 | Analysis of Twentieth Century        |       
+|15.T	 | Analysis of Early Twentieth Century  |       
 |(12/3)  | Repertoire (2) 	                |
 |        |					|
 |15.R	 | Final Class and Party 		|

@@ -13,6 +13,10 @@ Contents:
     
    syllabus
 
+.. toctree::
+   :maxdepth: 2
+   assignments/index
+    
 
 Indices and tables
 ==================
