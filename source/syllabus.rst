@@ -144,13 +144,12 @@ Final Project
 For your final project, you may choose to write either an 
 analysis paper or a model composition. You may find models 
 for your composition among any of the pieces and forms we 
-will have studied during the semester; to help you write an 
-analysis paper, I will provide you with a sample essay of my own. 
+will have studied during the semester.
 I will schedule short meetings with each of you to go over drafts 
 for final projects during the week of Monday, November 26. 
 Final Project Proposals are due by email at noon on Monday, 
 October 29. Final projects must be completed and submitted by 
-Tuesday, December 11 at 5pm, but may also be delivered to my 
+Tuesday, December 9th at 5pm, but may also be delivered to my 
 box at any time before the deadline.
 
 Lecture and Reading Schedule
@@ -257,6 +256,8 @@ Lecture and Reading Schedule
 |        |					|
 |15.R	 | Final Class and Party 		|
 |(12/5)	 |				        |
+|        | **NOTE:** The Final project is due by|
+|        | Monday, December 9th at 5pm.         |
 +--------+--------------------------------------+
 
 Honor
