@@ -2,7 +2,7 @@
 Scoring Rubric for Presentations
 ===================================================
 
-Below is an example of the scoring rubric for the presentations accompanying the listening comparisons.
+Below is an example of the scoring rubric for the presentations accompanying the homework.
 
 
 
