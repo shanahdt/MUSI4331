@@ -126,7 +126,7 @@ Before meeting with me and certainly before presenting in class,
 you should also convene with your partner, 
 discuss the assignment together, and plan out the presentation.
 
-You can see a rubric of how presentations are marked here.
+You can see a rubric of how presentations are marked `here <http://shanahdt.github.io/MUSI4331/assignments/presentationRubric.html/>`_.
 
 Grades will be given as percentages out of 100 and will be 
 applied to daily work (homework and presentations) and the final project. 
