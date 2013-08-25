@@ -133,7 +133,7 @@ applied to daily work (homework and presentations) and the final project.
 The final grade is based upon the following proportion: 
 
 - 30% for attendance and participation 
-- 40% for daily work, 
+- 40% for daily homework (presentations are worth one homework grade) 
 - 30% for the final project. **The UVa Honor Code is in effect at all times.**
 
 Final Project
@@ -271,6 +271,7 @@ the paper have been properly credited in the footnotes or bibliography.
 Students with disabilities
 ==========================
 
-This syllabus is available in alternative formats (PDF, HTML, epub) upon request. In addition, if you may need an accommodation based on the impact of a disability, you should contact me immediately.  
+This syllabus is available in alternative formats (PDF, HTML, epub) upon request. In addition, 
+if you may need an accommodation based on the impact of a disability, you should contact me immediately.  
 Students with special needs can contact UVa's Office of Disability Support Services (ph: 276-328-0265, email: wew3x@uvawise.edu) with any questions.
 I will make every effort to accommodate special needs. 
