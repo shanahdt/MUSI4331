@@ -27,7 +27,7 @@ curriculum at UVa. In this course, we will continue to explore
 Western tonal music through analysis and model composition. We will
 examine elements of sonata theory, modulation, chromaticism, the analysis of 
 late 19th- and 
-early20th-century music, and many other topics.
+early 20th-century music, and many other topics.
 
 Upon completion of this course, you should have developed many new 
 skills that will help you to relate more richly to music by better 
@@ -109,7 +109,8 @@ Each of you will be paired with another classmate to present your homework
 once on one of the Thursdays during the semester, starting on September 5th. 
 In addition to the copy of the homework that you hand in to me, 
 you are responsible for making a copy for every other member of 
-the class, so make sure to planning copying time into your preparation.
+the class, so make sure to leave enough time to make copies
+for your presentation.
 
 Begin your presentation by asking the class a series of questions that 
 will get them to think about the assignment and explain how they approached it. 
@@ -126,9 +127,11 @@ Before meeting with me and certainly before presenting in class,
 you should also convene with your partner, 
 discuss the assignment together, and plan out the presentation.
 
-You can see a rubric of how presentations are marked here_.
+You can see a rubric of how presentations are marked `here<http://shanahdt.github.io/MUSI4331/assignments/presentationRubric.html/>`_.
 
-.. _assignments/presentationRubric
+
+Grading
+---------
 
 Grades will be given as percentages out of 100 and will be 
 applied to daily work (homework and presentations) and the final project. 
@@ -146,10 +149,10 @@ analysis paper or a model composition. You may find models
 for your composition among any of the pieces and forms we 
 will have studied during the semester.
 I will schedule short meetings with each of you to go over drafts 
-for final projects during the week of Monday, November 26. 
+for final projects during the week of Monday, November 25. 
 Final Project Proposals are due by email at noon on Monday, 
-October 29. Final projects must be completed and submitted by 
-Tuesday, December 9th at 5pm, but may also be delivered to my 
+October 28. Final projects must be completed and submitted by 
+Monday, December 9th at 5pm, but may also be delivered to my 
 box at any time before the deadline.
 
 Lecture and Reading Schedule
