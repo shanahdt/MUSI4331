@@ -127,7 +127,7 @@ Before meeting with me and certainly before presenting in class,
 you should also convene with your partner, 
 discuss the assignment together, and plan out the presentation.
 
-You can see a rubric of how presentations are marked `here<http://shanahdt.github.io/MUSI4331/assignments/presentationRubric.html/>`_.
+You can see a rubric of how presentations are marked `here <http://shanahdt.github.io/MUSI4331/assignments/presentationRubric.html/>`_.
 
 
 Grading
