@@ -76,7 +76,7 @@ I am available and interested in talking with you about the course,
 the course material, and strategies to enhance your learning. 
 We can usually have brief discussions after class, and I am able 
 to answer questions by e-mail (dts9h@virginia.edu) at any time. 
-Additionally, I am happy to eith meet during office hours (see above), or to
+Additionally, I am happy to meet during office hours (see above), or to
 set up an appointment at a time that is 
 mutually acceptable for more lengthy discussions. 
 
