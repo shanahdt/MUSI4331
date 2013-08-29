@@ -5,7 +5,7 @@ Motives
 -----------------------
 
 .. figure:: figures/Ceora.rb1.png 
-          :scale: 80%
+          :scale: 20%
              
 
 In "Ceora", Lee Morgan does an amazing job of creating both cohesion 
@@ -94,10 +94,10 @@ and one of the more salient aspects of Y is the descent by a fourth in the first
 *Question:* How about the D-E,E-F motive in Debussy's "Des pas sur la neige"? Might we think of this as a motive?
 
 .. figure:: figures/despas.jpg
-
+          :scale: 80 %
 		  Debussy's "Des pas sur la neige", from the first book of *Preludes*
 
-
+ 
 This brings us to our first type of motivic repetition: strict motivic repetition 
 (specifically through the use of reharmonization).
 
@@ -178,6 +178,7 @@ Sequence
 This might be defined as when a repetition is transposed more than once at a consistent interval. 
 
 .. figure:: figures/takefiveBridge.png
+          :scale: 50 %
 
           The "B" section of "Take Five" by Paul Desmond and Dave Brubeck.
 
@@ -186,7 +187,7 @@ Augmentation and Diminution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: figures/augdim.png
-          :scale: 170 %
+          :scale: 50 %
 
           Example of Augmentation and Diminution (Laitz, pg. 782) 
 
@@ -227,8 +228,10 @@ For **Next Tuesday**: take one of the following melodies and elaborate them into
 Avoid parallel fifths and octaves. You can write for SATB or Piano.
 
 .. figure:: figures/hw1.png
+          :scale: 50 %
 
 .. figure:: figures/hw2.png
+          :scale: 50 %
 
 For **Next Thursday**: Perform a motivic analysis of the first movement (Adagio) of Mozart, Sonata no.4 in E-flat, K.282.
 Simply identify the the primary themes, and transformations that they might undergo. Provide a 
