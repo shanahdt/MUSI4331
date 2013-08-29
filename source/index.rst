@@ -18,7 +18,10 @@ Contents:
    
    assignments/index
     
+.. toctree::
+   :maxdepth: 3
 
+   lessons/index
 Indices and tables
 ==================
 
