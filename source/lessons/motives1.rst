@@ -110,7 +110,7 @@ See the above excerpt from "Des pas sur la neige."
 
 
 Motivic Repetition		
-=======================
+------------------------
 
 There are three main types of motivic repetition:
 
