@@ -95,7 +95,8 @@ and one of the more salient aspects of Y is the descent by a fourth in the first
 
 .. figure:: figures/despas.jpg
           :scale: 80 %
-		  Debussy's "Des pas sur la neige", from the first book of *Preludes*
+
+	  Debussy's "Des pas sur la neige", from the first book of *Preludes*
 
  
 This brings us to our first type of motivic repetition: strict motivic repetition 
