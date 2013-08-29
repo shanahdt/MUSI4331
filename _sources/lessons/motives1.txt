@@ -179,7 +179,7 @@ Sequence
 This might be defined as when a repetition is transposed more than once at a consistent interval. 
 
 .. figure:: figures/takefiveBridge.png
-          :scale: 50 %
+          :scale: 40 %
 
           The "B" section of "Take Five" by Paul Desmond and Dave Brubeck.
 
