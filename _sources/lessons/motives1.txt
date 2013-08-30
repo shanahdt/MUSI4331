@@ -195,20 +195,19 @@ Augmentation and Diminution
 Inversion
 ~~~~~~~~~~~~~~~~~~~~~
 
-Inversion is a transformation that projects the interval 
-between pitches in the opposite direction. For example, 
+Inversion consists of the interval 
+between pitches switching to the opposite direction. For example, 
 if an interval between two pitches is an ascending major 
 third, the inversion would be a descending major third.
 
 Retrograde
 ~~~~~~~~~~~~~~~~~~~~~
 
-Retrograde reverses the order of the motive's pitches: what w as the first 
-pitch becomes the last, and vice versa. As you can imagine, recognizing 
-that a melodic line has been 
-played backwards is not easy, since contour, rhythm, and 
-pitches are significantly altered between the original 
-presentation and that of the retrograde.
+*Reverses* the order of the motive's pitches: what was the first 
+pitch becomes the last, and vice versa. 
+
+Perceiving a melodic line that's in reverse 
+is not easy. 
 
 Retrograde Inversion
 ~~~~~~~~~~~~~~~~~~~~~~~
