@@ -187,6 +187,9 @@ This might be defined as when a repetition is transposed more than once at a con
 Augmentation and Diminution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+
+
+
 .. figure:: figures/augdim.png
           :scale: 50 %
 
