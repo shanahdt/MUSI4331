@@ -86,7 +86,7 @@ and one of the more salient aspects of Y is the descent by a fourth in the first
 
           
 
-*The Well-Tempered Clavier*, is probably not a motive. Why not?
+The example from *The Well-Tempered Clavier* (in the handout), is probably not a motive. Why not?
 
 - It doesn't really undergo any sort of transformation. The pitch and rhythm both
   stay the same, and it holds its place as a texture in the background.
