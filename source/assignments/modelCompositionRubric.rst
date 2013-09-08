@@ -2,7 +2,7 @@
 Scoring Rubric for Model Compositions
 ===================================================
 
-Below is an example of the scoring rubric for the presentations accompanying the homework.
+Below is an example of the scoring rubric for model composition.
 
 
 
