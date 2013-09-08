@@ -117,6 +117,8 @@ descending “5-line” over the course of the phrase.
           :scale: 50 %
 
 
+Have a look at Brahms's op.118, Intermezzo in A minor
+
 .. figure:: figures/melody9.png
           :scale: 80 %
 
