@@ -49,4 +49,74 @@ falling thirds, except once for range issues.
 
           Example 4: Chopin, Op.28, No.4 (*Prelude* in E minor)
 
+Melodic Writing and Analysis
+-----------------------------------
+
+Intervals don’e exist in isolation, but 
+rather they function as part of larger 
+musical constructs, such as a melody. 
+Let’s listen to a few melodies 
+and ask the following questions:
+
+Is the melody in a key, how do we know, and why?
+Do the melodies have a specific shape or contour?
+What sorts of melodic intervals occur between pitches?
+Are there accented events in the melodies 
+(such as instances that draw your attention, such 
+as leaps, chromaticism, and longer durations? 
+If so, are these events isolated, or does 
+the composer prepare them in so way?
+
+Melodic Reductive Analysis
+--------------------------------
+
+Look for stepwise motion that connects 
+the beginning of a phrase with its melodic cadence.
+Begin by labeling the scale degree of the melodic cadence.
+Identify the scale degree of the beginning of the phrase. 
+Look for what we might call “structural tones.”
+
+In the following example, we are able to see a structural 
+descent of a third. The D on the downbeat, 
+descends to a C at the onset of m.3, and B-flat on m.5.
+
+
+
+.. figure:: figures/melody5.png
+          :scale: 50 %
+
+          Example 5: Haydn String Quartet in B-flat, op.33, no.4 *Allegretto*
+
+
+.. figure:: figures/melody6.png
+          :scale: 50 %
+
+          Example 6: Reduction 
+
+This can be elongated throughout a longer phrase. 
+As we see in this Mozart example, there is a 
+descending “5-line” over the course of the phrase.
+
+
+.. figure:: figures/melody7.png
+          :scale: 50 %
+
+          Example 7: Mozart Piano Sonata in B-flat major, K.333
+
+
+
+
+
+
+
+
+
+
+
+.. figure:: figures/melody8.png
+          :scale: 50 %
+
+
+.. figure:: figures/melody9.png
+          :scale: 50 %
 
