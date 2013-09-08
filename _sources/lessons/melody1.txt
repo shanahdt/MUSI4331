@@ -118,5 +118,5 @@ descending “5-line” over the course of the phrase.
 
 
 .. figure:: figures/melody9.png
-          :scale: 50 %
+          :scale: 80 %
 
