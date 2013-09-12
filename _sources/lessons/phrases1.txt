@@ -175,14 +175,14 @@ Provide an analysis of the basic idea, the phrases, the harmonic analysis, *etc.
 for Mozart's Violin Sonata in A, K.402, mm.1--8:
 
 .. figure:: figures/mozartk402.png
-          :scale: 250%
+          :scale: 100%
 
 
 Provide an analysis of the basic idea, the phrases, the harmonic analysis, *etc.* 
 for Mozart's Piano Sonata in D, K.311, iii mm.1--8:
 
 .. figure:: figures/mozartk311rondo.png
-           :scale: 250%
+           :scale: 100%
  
 Periods
 ====================
