@@ -8,3 +8,4 @@ Contents:
 
    motives1
    melody1
+   phrases1

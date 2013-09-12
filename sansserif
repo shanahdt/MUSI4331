@@ -1,0 +1,805 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 5 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+5 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 19 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 18 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 20 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 18 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R8': class PDFCatalog 
+8 0 obj
+% Document Root
+<< /Outlines 10 0 R
+ /PageLabels 21 0 R
+ /PageMode /UseNone
+ /Pages 18 0 R
+ /Type /Catalog >>
+endobj
+% 'R9': class PDFInfo 
+9 0 obj
+<< /Author ()
+ /CreationDate (D:20130909170955+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Phrases and Cadences \(Notes from Caplin, 1998\)) >>
+endobj
+% 'R10': class PDFOutlines 
+10 0 obj
+<< /Count 9
+ /First 11 0 R
+ /Last 11 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+11 0 obj
+<< /Count 6
+ /Dest [ 6 0 R
+ /XYZ
+ 34.34646
+ 629.0236
+ 0 ]
+ /First 12 0 R
+ /Last 17 0 R
+ /Parent 10 0 R
+ /Title (Sentences) >>
+endobj
+% 'Outline.8.0': class OutlineEntryObject 
+12 0 obj
+<< /Count 3
+ /Dest [ 6 0 R
+ /XYZ
+ 34.34646
+ 476.0236
+ 0 ]
+ /First 13 0 R
+ /Last 15 0 R
+ /Next 16 0 R
+ /Parent 11 0 R
+ /Title (Presentation Phrase) >>
+endobj
+% 'Outline.9.0': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 34.34646
+ 326.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 12 0 R
+ /Title (Basic Idea) >>
+endobj
+% 'Outline.9.1': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 309.0236
+ 621.0236
+ 0 ]
+ /Next 15 0 R
+ /Parent 12 0 R
+ /Prev 13 0 R
+ /Title (Example 1) >>
+endobj
+% 'Outline.9.2': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 309.0236
+ 390.0236
+ 0 ]
+ /Parent 12 0 R
+ /Prev 14 0 R
+ /Title (Tonic Prolongation) >>
+endobj
+% 'Outline.8.1': class OutlineEntryObject 
+16 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 34.34646
+ 765.0236
+ 0 ]
+ /Next 17 0 R
+ /Parent 11 0 R
+ /Prev 12 0 R
+ /Title (Continuation Phrase) >>
+endobj
+% 'Outline.8.2': class OutlineEntryObject 
+17 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 34.34646
+ 267.0236
+ 0 ]
+ /Parent 11 0 R
+ /Prev 16 0 R
+ /Title (Cadential Phrase) >>
+endobj
+% 'R18': class PDFPages 
+18 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 6 0 R
+ 7 0 R ]
+ /Type /Pages >>
+endobj
+% 'R19': class PDFStream 
+19 0 obj
+% page stream
+<< /Length 9967 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 34.34646 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F2 20 Tf 24 TL 16.46276 0 Td (Phrases and Cadences) Tj T* -11.09 0 Td (\(Notes from Caplin, 1998\)) Tj T* -5.372756 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.34646 671.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.401551 Tw 12 TL /F1 10 Tf 0 0 0 rg (Today we are going to move away from the notions of) Tj T* 0 Tw .085689 Tw (motive and texture, and look at larger musical groupings,) Tj T* 0 Tw (known as phrases and sentences.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 641.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.549439 Tw 12 TL /F1 10 Tf 0 0 0 rg (This will begin our study of ) Tj /F3 10 Tf (Formenlehre) Tj /F1 10 Tf (, which simply) Tj T* 0 Tw (means the "teaching of form.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 608.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Sentences) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 542.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .456551 Tw 12 TL /F1 10 Tf 0 0 0 rg (For our purposes, we will define a sentence as being an) Tj T* 0 Tw 5.952585 Tw (eight-measure structure. It typically begins with a) Tj T* 0 Tw .100787 Tw (two-measure ) Tj /F2 10 Tf (basic idea) Tj /F1 10 Tf (, which will usually introduce the) Tj T* 0 Tw 1.785919 Tw (fundamental melodic \(and motivic\) material. There can) Tj T* 0 Tw (be multiple motives in the basic theme.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 488.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.623551 Tw (The sentences we will be looking at in the near future) Tj T* 0 Tw .96793 Tw (\(those found in Haydn, Mozart, and Beethoven\) contain) Tj T* 0 Tw .489359 Tw (phrases that indicate a presentation, a continuation, and) Tj T* 0 Tw (a cadence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 458.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Presentation Phrase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 392.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 4.385073 Tw 12 TL /F1 10 Tf 0 0 0 rg (An eight measure sentence typically begins with a) Tj T* 0 Tw 6.361102 Tw (four-measure ) Tj /F3 10 Tf (presentation phrase) Tj /F1 10 Tf (, consisting of a) Tj T* 0 Tw .431939 Tw (repeated two measure ) Tj /F2 10 Tf (basic idea) Tj /F1 10 Tf (, which can usually be) Tj T* 0 Tw 6.685689 Tw (heard as being within a tonic area \(see ) Tj /F2 10 Tf (tonic) Tj T* 0 Tw (prolongation) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 338.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .543189 Tw (Caplin writes that the "presentation functions to create a) Tj T* 0 Tw 1.526502 Tw (solid structural beginning for the theme by establishing) Tj T* 0 Tw 2.897585 Tw (its melodic-motivic content in a stable harmonic-tonal) Tj T* 0 Tw (environment."\(Caplin, 1998; p.35\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 311.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Basic Idea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 245.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.285057 Tw (A basic idea is basically what we've been exploring for) Tj T* 0 Tw 3.286168 Tw (the past couple of classes. It has a salient melodic) Tj T* 0 Tw .124551 Tw (aspect, is usually presented early on \(in fact in the music) Tj T* 0 Tw 3.770689 Tw (of Haydn, Mozart, and Brahms, it is almost always) Tj T* 0 Tw (presented at the very beginning\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 215.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.345551 Tw (When looking at the repetition of the basic idea, it is) Tj T* 0 Tw (helpful to think of three types of repetition:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 209.0236 cm
+Q
+q
+1 0 0 1 34.34646 209.0236 cm
+Q
+q
+1 0 0 1 34.34646 137.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Exact repetition \(self-explanatory\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.123102 Tw (For example, this example from Mozart's) Tj T* 0 Tw .600919 Tw (K.330, i mm.1--8 shows an the statement) Tj T* 0 Tw .280689 Tw (of the basic idea in mm.1-2, and it's exact) Tj T* 0 Tw (repetition in mm.3--4.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 137.0236 cm
+Q
+q
+1 0 0 1 34.34646 107.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.146378 Tw (XXXXXXEXAMPLE 3.5 from CAPLIN XXXXXXExample) Tj T* 0 Tw (3.6 from CAPLIN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 101.0236 cm
+Q
+q
+1 0 0 1 34.34646 101.0236 cm
+Q
+q
+1 0 0 1 309.0236 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 4.095102 Tw (Statement-response repetition \(a version of the) Tj T* 0 Tw .435551 Tw (basic idea in the tonic is followed by the same idea) Tj T* 0 Tw 2.529359 Tw (in the dominant\). -See the Example below, from) Tj T* 0 Tw (Haydn's Piano Sonata in G, Hob, XVI:27, ii, 1--8.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 309.0236 717.0236 cm
+Q
+q
+1 0 0 1 309.0236 699.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (XXXXXXEXAMPLE3.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 693.0236 cm
+Q
+q
+1 0 0 1 309.0236 693.0236 cm
+Q
+q
+1 0 0 1 309.0236 633.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm 4.430919 Tw 12 TL /F1 10 Tf 0 0 0 rg (Sequential Repetition occurs when the idea is) Tj T* 0 Tw 1.740787 Tw /F2 10 Tf (transposed to a different scale degree in both) Tj T* 0 Tw 2.690787 Tw (melody and harmony. ) Tj /F1 10 Tf (- See the example from) Tj T* 0 Tw 3.442216 Tw (Beethoven's piano Sonata in G, op.14/2 i 1--8.) Tj T* 0 Tw (\(Caplin, p.36\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 309.0236 633.0236 cm
+Q
+q
+1 0 0 1 309.0236 606.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Example 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 540.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .293946 Tw (If we look at Example 1, from Beethoven's Piano Sonata) Tj T* 0 Tw .82141 Tw (in F minor, op.2/I, i mm.1--8, we can see that this 8-bar) Tj T* 0 Tw 1.060612 Tw (sentence can be divided into a number of nested ideas) Tj T* 0 Tw 4.543645 Tw (that we might examine to understand what makes) Tj T* 0 Tw (sentences work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 522.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (XXXXXXEXAMPLE HERE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 468.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .767774 Tw 12 TL /F1 10 Tf 0 0 0 rg (First, we can see that we have a ) Tj /F2 10 Tf (basic idea ) Tj /F1 10 Tf (that spans) Tj T* 0 Tw .449501 Tw (the first two measures. This melodic idea returns in m.3.) Tj T* 0 Tw .845551 Tw (We might call this the return of the basic idea, although) Tj T* 0 Tw (now in it has been transposed up a perfect fifth.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 402.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.493946 Tw 12 TL /F1 10 Tf 0 0 0 rg (Because it has been repeated and we as listeners are) Tj T* 0 Tw 1.073228 Tw (now very conscious of it, we might think of it as having) Tj T* 0 Tw 1.802835 Tw (been presented to us. We might therefore refer to the) Tj T* 0 Tw .817279 Tw (measures 1--4, with the basic idea and its repetition, as) Tj T* 0 Tw (our ) Tj /F3 10 Tf (presentation phrase) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 375.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Tonic Prolongation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 333.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.195073 Tw (For Caplin \(and many others\) a presentation phrase) Tj T* 0 Tw 4.305073 Tw (prolongs the tonic harmony. The two concepts are) Tj T* 0 Tw (intertwined.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 279.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .019359 Tw 12 TL /F1 10 Tf 0 0 0 rg (An harmonic prolongation occurs when a single harmony) Tj T* 0 Tw .635057 Tw (\(such as Tonic or Dominant\) is perceived as existing for) Tj T* 0 Tw .305919 Tw (many measures, ) Tj /F2 10 Tf (despite the existence of interpolated) Tj T* 0 Tw (harmonies) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 225.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .760919 Tw 12 TL /F1 10 Tf 0 0 0 rg (Prolongation creates ) Tj /F3 10 Tf (another level ) Tj /F1 10 Tf (of harmonic function.) Tj T* 0 Tw 1.013551 Tw (Therefore, there is both a local level \(where there is an) Tj T* 0 Tw .507279 Tw (harmonic function for each chord\), and a deeper level in) Tj T* 0 Tw (which there is a prolonged harmony.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 159.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .289551 Tw (The harmony of the first presentation of the basic idea is) Tj T* 0 Tw 3.729252 Tw (first presented with Tonic accompaniment, while the) Tj T* 0 Tw 1.126939 Tw (repetition is over the dominant. The first instantiation of) Tj T* 0 Tw 2.617279 Tw (the basic idea can be thought of as the "statement",) Tj T* 0 Tw (whereas the second might be called the "response.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 309.0236 93.02362 cm
+q
+BT 1 0 0 1 0 50 Tm .850689 Tw 12 TL /F1 10 Tf 0 0 0 rg (Although we use the dominant harmony in mm.3--4, we) Tj T* 0 Tw .012551 Tw (might think of the entire first four measures as being able) Tj T* 0 Tw 2.180551 Tw (to be reduced to a tonic harmony. We might call this) Tj T* 0 Tw 2.413645 Tw (tonic prolongation. Most "presentation" tend to be the) Tj T* 0 Tw (result of a ) Tj /F2 10 Tf (tonic prolongation) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R20': class PDFStream 
+20 0 obj
+% page stream
+<< /Length 5907 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 34.34646 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Continuation Phrase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 705.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.346551 Tw 12 TL /F1 10 Tf 0 0 0 rg (This can be followed in the next four measures by a) Tj T* 0 Tw 6.561378 Tw /F3 10 Tf (continuation phrase) Tj /F1 10 Tf (. Continuation phrases typically) Tj T* 0 Tw (contain two characteristics in the Classical style:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 699.0236 cm
+Q
+q
+1 0 0 1 34.34646 699.0236 cm
+Q
+q
+1 0 0 1 34.34646 675.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.243645 Tw (Fragmentation, in which the size of the original) Tj T* 0 Tw (motivic units are made smaller.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 669.0236 cm
+Q
+q
+1 0 0 1 34.34646 645.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.435102 Tw 12 TL /F1 10 Tf 0 0 0 rg (Harmonic Acceleration, in which the ) Tj /F2 10 Tf (harmonic) Tj T* 0 Tw (rhythm ) Tj /F1 10 Tf (increases.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 645.0236 cm
+Q
+q
+1 0 0 1 34.34646 603.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .400551 Tw (Looking at this example, we see that where we did have) Tj T* 0 Tw 1.338189 Tw (a harmonic change every two measures, it now occurs) Tj T* 0 Tw (every measure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 549.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.376939 Tw (The fragmentation occurs in the melody. It helps that) Tj T* 0 Tw 3.039439 Tw (there's an exact repetition to help us delineate what) Tj T* 0 Tw 2.416939 Tw (exactly is the fragmented motive. It's the melody that) Tj T* 0 Tw (occurs in m.2 of the piece.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 495.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.062835 Tw (Because of this, we might now go back and distinguish) Tj T* 0 Tw 1.195057 Tw (between the motive 'a' in the first measure, and motive) Tj T* 0 Tw 1.842319 Tw ('b' in the second. It is motive 'b' that fragments in our) Tj T* 0 Tw (continuation phrase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 417.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 3.737585 Tw (Beethoven has completely detached motive 'B' from) Tj T* 0 Tw .926865 Tw (motive 'A', pretty much getting rid of the first part of the) Tj T* 0 Tw .428189 Tw (presentation phrase. In measure 7, he changes the 16th) Tj T* 0 Tw 3.276939 Tw (note triplets to steady eighth notes, leading into the) Tj T* 0 Tw 6.473102 Tw (cadence. The gradual dissolution of characteristic) Tj T* 0 Tw (motives is frequently referred to as "liquidation.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 375.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .615689 Tw (Caplin writes that "...the purpose of motivic liquidation is) Tj T* 0 Tw .940612 Tw (to strip the basic idea of its characteristic features, thus) Tj T* 0 Tw (leaving the merely conventional ones for the cadence.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 345.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 4.756939 Tw 12 TL /F1 10 Tf 0 0 0 rg (This brings us to the third "formal function" \(after) Tj T* 0 Tw (presentation and continuation\) is the ) Tj /F3 10 Tf (cadential ) Tj /F1 10 Tf (function.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 327.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The cadential function usually consists of:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 321.0236 cm
+Q
+q
+1 0 0 1 34.34646 321.0236 cm
+Q
+q
+1 0 0 1 34.34646 297.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.453645 Tw (Falling melodic line \(or a melody which contains) Tj T* 0 Tw (structural tones that descend\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 291.0236 cm
+Q
+q
+1 0 0 1 34.34646 279.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Harmonic cadence \(HC, PAC, etc.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 279.0236 cm
+Q
+q
+1 0 0 1 34.34646 249.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Cadential Phrase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 237.0236 cm
+Q
+q
+1 0 0 1 34.34646 237.0236 cm
+Q
+q
+1 0 0 1 34.34646 225.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Authentic cadential progressions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 219.0236 cm
+Q
+q
+1 0 0 1 34.34646 207.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Half-cadential progressions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 207.0236 cm
+Q
+q
+1 0 0 1 34.34646 129.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 3.032216 Tw (In the example above, the process of fragmentation,) Tj T* 0 Tw 3.819252 Tw (liquidation, harmonic acceleration, etc. all lead quite) Tj T* 0 Tw .223189 Tw (seamlessly into the cadential portion of the phrase. They) Tj T* 0 Tw 1.682835 Tw (allow the listener to move away from the salient ideas) Tj T* 0 Tw .565047 Tw (from the first part of the sentence, and toward a point of) Tj T* 0 Tw (melodic and harmonic closure.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R21': class PDFPageLabels 
+21 0 obj
+% Document Root
+<< /Nums [ 0
+ 22 0 R
+ 1
+ 23 0 R ] >>
+endobj
+% 'R22': class PDFPageLabel 
+22 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R23': class PDFPageLabel 
+23 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 24
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000585 00000 n
+0000000766 00000 n
+0000000953 00000 n
+0000001232 00000 n
+0000001511 00000 n
+0000001668 00000 n
+0000001963 00000 n
+0000002088 00000 n
+0000002286 00000 n
+0000002509 00000 n
+0000002681 00000 n
+0000002867 00000 n
+0000003047 00000 n
+0000003243 00000 n
+0000003403 00000 n
+0000003518 00000 n
+0000013584 00000 n
+0000019594 00000 n
+0000019700 00000 n
+0000019777 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(sX\2413M/\027\255$?Tn\017h>]) (sX\2413M/\027\255$?Tn\017h>])] 
+
+ /Info 9 0 R
+ /Root 8 0 R
+ /Size 24 >>
+startxref
+19824
+%%EOF
