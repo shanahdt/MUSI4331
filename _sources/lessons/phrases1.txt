@@ -46,12 +46,12 @@ of repetition:
 
 
 .. figure:: figures/ex3_5.png
-          :scale: 80%
+          :scale: 70%
 
 - Another example can be found in Haydn's Piano Sonata in B-flat, 41, ii 1--8:
 	
 .. figure:: figures/ex3_6.png
-          :scale: 80%
+          :scale: 65%
 
 - Statement-response repetition (a version of the basic idea in the tonic is followed by
   the same idea in the dominant).
@@ -59,7 +59,7 @@ of repetition:
 	 -See the Example  below, from Haydn's Piano Sonata in G, Hob, XVI:27, ii, 1--8. 
 
 .. figure:: figures/ex3_7.png
-	          :scale: 100%
+	          :scale: 70%
         
 - Sequential Repetition occurs when the idea is **transposed to a different scale degree
   in both melody and harmony.**
@@ -79,9 +79,7 @@ into a number of nested ideas that we might
 examine to understand what makes sentences work. 
 
 .. figure:: figures/ex1_1.png
-          :scale: 75%
-
-First, we can see that we have a **basic idea** that spans the first two measures. This melodic
+          :scale: 666666irst, we can see that we have a **basic idea** that spans the first two measures. This melodic
 idea returns in m.3. We might call this the return of the basic idea, although now in it has
 been transposed up a perfect fifth.
 
@@ -176,14 +174,14 @@ Provide an analysis of the basic idea, the phrases, the harmonic analysis, *etc.
 for Mozart's Violin Sonata in A, K.402, mm.1--8:
 
 .. figure:: figures/mozartk402.png
-          :scale: 50%
+          :scale: 80%
 
 
 Provide an analysis of the basic idea, the phrases, the harmonic analysis, *etc.* 
 for Mozart's Piano Sonata in D, K.311, iii mm.1--8:
 
 .. figure:: figures/mozartk311rondo.png
-           :scale: 50%
+           :scale: 80%
  
 Periods
 ====================
@@ -196,7 +194,7 @@ fulfilling an **antecedent-consequent** relationship.
 We can see a great example of this in the opening of the second movement of Mozart's *Eine kleine Nachtmusik*:
 
 .. figure:: figures/ex1_3.png
-           :scale: 65%
+           :scale: 55%
 The Antecedent Phrase
 -----------------------------
 
