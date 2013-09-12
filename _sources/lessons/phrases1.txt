@@ -45,20 +45,20 @@ of repetition:
 
 
 .. figure:: figures/ex3_5.png
-          :scale: 200%
+          :scale: 100%
 
 - Another example can be found in Haydn's Piano Sonata in B-flat, 41, ii 1--8:
 	
 .. figure:: figures/ex3_6.png
-          :scale: 200%
+          :scale: 100%
 
 - Statement-response repetition (a version of the basic idea in the tonic is followed by
   the same idea in the dominant).
   
-	-See the Example  below, from Haydn's Piano Sonata in G, Hob, XVI:27, ii, 1--8. 
+	 -See the Example  below, from Haydn's Piano Sonata in G, Hob, XVI:27, ii, 1--8. 
 
-	.. figure:: figures/ex3_7.png
-	          :scale: 200%
+.. figure:: figures/ex3_7.png
+	          :scale: 100%
         
 - Sequential Repetition occurs when the idea is **transposed to a different scale degree
   in both melody and harmony.**
@@ -66,7 +66,7 @@ of repetition:
 	- See the example from Beethoven's piano Sonata in G, op.14/2 i 1--8. (Caplin, p.36)
 
 .. figure:: figures/ex3_4.png
-          :scale: 200%
+          :scale: 100%
 
 Example 1
 ~~~~~~~~~~~~~~~~~~~~~
