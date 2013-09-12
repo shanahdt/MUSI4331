@@ -44,13 +44,14 @@ of repetition:
 	- For example, this example from Mozart's K.330, i mm.1--8 shows an the statement of the basic idea in mm.1-2, and it's exact repetition in mm.3--4.
 
 
+
 .. figure:: figures/ex3_5.png
-          :scale: 100%
+          :scale: 80%
 
 - Another example can be found in Haydn's Piano Sonata in B-flat, 41, ii 1--8:
 	
 .. figure:: figures/ex3_6.png
-          :scale: 100%
+          :scale: 80%
 
 - Statement-response repetition (a version of the basic idea in the tonic is followed by
   the same idea in the dominant).
@@ -175,14 +176,14 @@ Provide an analysis of the basic idea, the phrases, the harmonic analysis, *etc.
 for Mozart's Violin Sonata in A, K.402, mm.1--8:
 
 .. figure:: figures/mozartk402.png
-          :scale: 100%
+          :scale: 50%
 
 
 Provide an analysis of the basic idea, the phrases, the harmonic analysis, *etc.* 
 for Mozart's Piano Sonata in D, K.311, iii mm.1--8:
 
 .. figure:: figures/mozartk311rondo.png
-           :scale: 100%
+           :scale: 50%
  
 Periods
 ====================
@@ -195,7 +196,7 @@ fulfilling an **antecedent-consequent** relationship.
 We can see a great example of this in the opening of the second movement of Mozart's *Eine kleine Nachtmusik*:
 
 .. figure:: figures/ex1_3.png
-           :scale: 75%
+           :scale: 65%
 The Antecedent Phrase
 -----------------------------
 
@@ -246,4 +247,4 @@ Write an eight-measure period using the given harmonic function and figured bass
 part-writing rules.** This includes no parallels, the treatment of the leading tone, range, and spacing issues.
 
 .. figure:: figures/antcons1.png
-           :scale: 100 %
+           :scale: 50 %
