@@ -78,7 +78,7 @@ into a number of nested ideas that we might
 examine to understand what makes sentences work. 
 
 .. figure:: figures/ex1_1.png
-          :scale: 150%
+          :scale: 75%
 
 First, we can see that we have a **basic idea** that spans the first two measures. This melodic
 idea returns in m.3. We might call this the return of the basic idea, although now in it has
@@ -195,14 +195,14 @@ fulfilling an **antecedent-consequent** relationship.
 We can see a great example of this in the opening of the second movement of Mozart's *Eine kleine Nachtmusik*:
 
 .. figure:: figures/ex1_3.png
-           :scale: 150%
+           :scale: 75%
 The Antecedent Phrase
 -----------------------------
 
 Again, we begin with a two-measure basic idea. 
 
 **"In a sentence, the basic idea is immediately repeated, but in a period, the basic 
-idea is juxtaposed with a contrasting idea, one that brings a week cadence"** (Caplin, 49)
+idea is juxtaposed with a contrasting idea, one that brings a weak cadence"** (Caplin, 49)
 
 Contrasting Idea
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -217,7 +217,7 @@ The consequent phrases continues this pattern of basic idea, followed by contras
 
 
 .. figure:: figures/ex4_1.png
-           :scale: 150%
+           :scale: 75%
 
 
 The most important contrast between the basic idea and the contrasting idea, however, is not melodic, but harmonic
@@ -229,7 +229,7 @@ contrasting idea takes over at the end of m.2. We might think that it is not a c
 but the harmonic context moves to a half cadence in m.4, whereas the basic idea doesn't. The consequent phrases follows this formula, as well.  
 
 .. figure:: figures/ex4_4.png
-           :scale: 150%
+           :scale: 75%
 
 
 **"A basic idea followed by a contrasting idea does not in itself constitute an antecedent. Essential to 
